@@ -1,6 +1,15 @@
 # odin-recipes
-Cookie recipe from: https://bakesbybrownsugar.com/coconut-chocolate-chip-cookies/
+Project Description:
+This is a basic recipe list website. 
+The main page links to 3 different recipes.
+Each recipe has an image, description, ingredients, and steps
 
-Pizza recipe from: https://www.allrecipes.com/recipe/23735/buffalo-style-chicken-pizza/
+Skills:
+With this step of the project, I was able to practice basic html skills as well as get better at using Git.
 
-Smoothie recipe from: https://www.allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/
+Recipe Sources:
+Cookie recipe: https://bakesbybrownsugar.com/coconut-chocolate-chip-cookies/
+
+Pizza recipe: https://www.allrecipes.com/recipe/23735/buffalo-style-chicken-pizza/
+
+Smoothie recipe: https://www.allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/
